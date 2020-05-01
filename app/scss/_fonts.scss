@@ -1,0 +1,16 @@
+@font-face {
+	font-family: 'Helvetica', sans-serif;
+	src: url('../fonts/HelveticaRegular.eot') format('woff2'),
+		  url('../fonts/HelveticaRegular.woff') format('woff'),
+		  url('../fonts/HelveticaRegular.ttf') format('woff');
+   font-weight: 400;
+   font-display: swap;
+}
+@font-face {
+	font-family: 'Helvetica', sans-serif;
+	src: url('../fonts/HelveticaBold.eot') format('woff2'),
+		  url('../fonts/HelveticaBold.woff') format('woff'),
+		  url('../fonts/HelveticaBold.ttf') format('woff');
+   font-weight: 700;
+   font-display: swap;
+}
